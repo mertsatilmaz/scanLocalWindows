@@ -45,8 +45,8 @@ A Python-based script that downloads a specified year of the National Vulnerabil
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
-   cd <YOUR_REPO_NAME>
+   git clone https://github.com/mertsatilmaz/scanLocalWindows.git
+   cd scanLocalWindows
    ```
 
 2. **Install Required Packages**:
